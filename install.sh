@@ -42,15 +42,10 @@ LATESTARTSERVICE=false
 
 # Construct your list in the following format
 # This is an example
-REPLACE_EXAMPLE="
-/system/app/Youtube
-/system/priv-app/SystemUI
-/system/priv-app/Settings
-/system/framework
-"
+
 
 # Construct your own list here
-REPLACE="
+REPLACE="/system/webview
 "
 
 ##########################################################################################
@@ -123,7 +118,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     Bromite Systemless Webview    "
   ui_print "*******************************"
 }
 
