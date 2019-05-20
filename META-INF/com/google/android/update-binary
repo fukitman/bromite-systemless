@@ -84,6 +84,8 @@ print_modname
 ui_print "******************************"
 ui_print "Powered by Magisk (@topjohnwu)"
 ui_print "******************************"
+ui_print " Bromite Systemless Webview "
+ui_print "******************************"
 ui_print " Module by Innonetlife"
 ui_print " Original app by bromite.org"
 
