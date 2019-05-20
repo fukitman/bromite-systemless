@@ -1,7 +1,5 @@
-# Magisk Installer
+**Bromite System Webview**
 
-**Update `README.md` if you want to submit your module to the online repo!**
+This module allows you to install Bromite systemlessly. With Bromite, you can block ads and trackers and resist fingerprinting
 
-For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
-
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+I didn't develop the app itself; all credit goes to the devs at bromite.org
