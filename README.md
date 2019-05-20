@@ -10,4 +10,4 @@ Donation to the app creators is found at bromite.org. Donation to me is [here](h
 
 Any issues with Bromite itself should be filed with the Bromite team
 
-Issues with the module are filed [here](https://github.com/alexa-v2/magisk-module-installer)
+Issues with the module are filed [here](https://github.com/alexa-v2/magisk-module-installer/issues)
