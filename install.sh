@@ -145,5 +145,4 @@ set_permissions() {
   # set_perm  $MODPATH/system/bin/dex2oat         0     2000    0755      u:object_r:dex2oat_exec:s0
   # set_perm  $MODPATH/system/lib/libart.so       0     0       0644
 }
-ui_print " If you're experiencing webview crashing, navigate to /system/app/webview and install the apk there"
-# You can add more functions to assist your custom script code
+
