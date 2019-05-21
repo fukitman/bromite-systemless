@@ -13,3 +13,11 @@ Any issues with Bromite itself should be filed with the Bromite team [here](http
 Issues with the module are filed [here](https://github.com/alexa-v2/magisk-module-installer/issues)
 
 Credit to @topjohnwu for magisk and the magisk installer template.
+
+**Changelog:**
+v1.2
+-Updated libs
+v1.1 
+-Fix WebView crash
+v1.0
+-Initial release
