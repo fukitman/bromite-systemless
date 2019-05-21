@@ -1,4 +1,4 @@
-**Bromite Systemless Webview**
+<h2>**Bromite Systemless Webview**</h2>
 
 This module allows you to install Bromite systemlessly. With Bromite, you can block ads and trackers and resist fingerprinting
 
@@ -14,7 +14,7 @@ Issues with the module are filed [here](https://github.com/alexa-v2/magisk-modul
 
 Credit to @topjohnwu for magisk and the magisk installer template.
 
-**Changelog:**
+<h3>**Changelog:**</h3>
 
 v1.2
 
