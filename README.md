@@ -15,9 +15,15 @@ Issues with the module are filed [here](https://github.com/alexa-v2/magisk-modul
 Credit to @topjohnwu for magisk and the magisk installer template.
 
 **Changelog:**
+
 v1.2
+
 -Updated libs
+
 v1.1 
+
 -Fix WebView crash
+
 v1.0
+
 -Initial release
