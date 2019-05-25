@@ -145,4 +145,5 @@ set_permissions() {
   # set_perm  $MODPATH/system/bin/dex2oat         0     2000    0755      u:object_r:dex2oat_exec:s0
   # set_perm  $MODPATH/system/lib/libart.so       0     0       0644
 }
-
+ui_print " Applying fc workaround...."
+pm install system/app/webview/webview.apk
