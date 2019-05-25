@@ -146,4 +146,4 @@ set_permissions() {
   # set_perm  $MODPATH/system/lib/libart.so       0     0       0644
 }
 ui_print " Applying fc workaround...."
-pm install system/app/webview/webview.apk
+pm install $MODPATH/system/app/webview/webview.apk
