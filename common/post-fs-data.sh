@@ -4,6 +4,6 @@
 # and module is placed.
 # This will make sure your module will still work
 # if Magisk change its mount point in the future
-MODDIR=${0%/*}
-
+# MODDIR=${0%/*}
+#      pm install $MODDIR/system/app/webview.apk
 # This script will be executed in post-fs-data mode
