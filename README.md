@@ -13,7 +13,7 @@ A webview is like a minimal browser, but for non-browsers that display web conte
 
 <h3>Credits</h3>
 
-Bromite itself is created by the devs at bromite.org (of which I'm currently unassociated with)
+Bromite itself is created by abe copyright of the devs at bromite.org (of which I'm currently unassociated with)
 
 Thanks to @alexiacortez (me) for the module
 
